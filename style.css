@@ -1,21 +1,19 @@
-body{
-    background-color: dimgray;
-    color: azure;
-    font-size: 25px;
+.background{
+    background-image: url(img/Background.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 50vh;
 }
+
 h1{
     color: aquamarine;
 }
 #id{
+    margin-top: 50px;
+    text-align: center;
     color: blueviolet;
 }
 .purple-font{
     color: blueviolet;
-}
-.background{
-    background-color: cadetblue;
-    padding: 5px 5px;
-}
-span{
-    font-weight: bold;
 }

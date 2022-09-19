@@ -1,3 +1,7 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+
 .background{
     background-image: url(img/City\ Landscape.jpg);
     background-position: center;

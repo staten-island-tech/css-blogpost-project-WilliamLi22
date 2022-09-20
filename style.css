@@ -1,23 +1,33 @@
 body{
     font-family: 'Oxygen', sans-serif;
+    background-color: cadetblue 
 }
 
 .background{
-    background-image: url(img/City\ Landscape.jpg);
+    background-image: url(img/Kitchen\ Background.jpg);
     background-position: center;
     background-size: cover;
     color: white;
-    height: 50vh;
+    height: 20vh;
 }
 
+.Limes{
+    margin: 50px auto;
+}
+.FriedChicken{
+    margin: 50px auto;
+}
+.HotDog{
+    margin: 50px auto;
+}
+
+
 h1{
-    color: aquamarine;
-}
-#id{
-    margin-top: 50px;
+    color: black;
+    margin-top: 40px;
     text-align: center;
-    color: blueviolet;
 }
-.purple-font{
-    color: blueviolet;
+h2{
+    color: black;
+    text-align: center;
 }

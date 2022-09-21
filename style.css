@@ -1,24 +1,23 @@
 body{
     font-family: 'Oxygen', sans-serif;
-    background-color: cadetblue 
+    background-color: teal; 
 }
 
 .background{
-    background-image: url(img/Kitchen\ Background.jpg);
+    background-color: #B2DFDB;
     background-position: center;
     background-size: cover;
     color: white;
-    height: 20vh;
+    height: 15vh;
+    border-radius: 10px;
 }
 
 .food{
     width: 650px;
     padding: 40px;
-    margin: 20px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto;
     text-align: center;
-    background-color: aquamarine;
+    background-color: #B2DFDB;
     border-radius: 50px;
 }
 
